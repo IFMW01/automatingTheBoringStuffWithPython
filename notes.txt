@@ -1,0 +1,22 @@
+Chapter 1 
+
+Expressions consit of values (5) and operators like + and they are reduced down to a single value. 
+** means to the power of
+% means the ramainder of 
+// means the floored quotient which is the remainder but the integer value at the start
+/ means division 
++ means addition
+- means subtraction
+
+Rules for variables
+1. Can only be one word
+2. Cannot start with a number
+3. Can only contain _'s
+
+# are used for commengs in code 
+
+Input () is used to allow users to input information into the program.
+
+Anything can be converted into a strimg function by using str().
+You can convert some thing into integers using int()
+You can convert some things into Floating point numbers (numbers with decimal places) using float()
