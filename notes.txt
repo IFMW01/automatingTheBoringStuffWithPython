@@ -20,3 +20,37 @@ Input () is used to allow users to input information into the program.
 Anything can be converted into a strimg function by using str().
 You can convert some thing into integers using int()
 You can convert some things into Floating point numbers (numbers with decimal places) using float()
+
+chapter 2 
+Boolean data types has two values which are: True or False 
+== means equal to 
+!= means not equal to
+< means less than 
+> means greater than 
+>= means greater or qual to 
+<= means less than or equal to 
+
+Boolean operators are: And, Or and not
+
+Elements of contol flow conditions 
+1. Block begins when identation increases 
+2. It can contain other blocks
+3. Block ends when the indentation decreases to 0 
+
+If statements: 
+- Key word "if"
+- Needs a colon at the end 
+- On the next line there is indented code 
+
+Else statements: 
+- Key word "else"
+- Followed by a colon 
+- Then by a block 
+e.g. Else:
+          print ("False")
+
+Elif statemnets:
+- Always follows an if statemnt 
+- There is a true or false condition 
+- Followed by an indentation of code 
+- Closes with an else statement
