@@ -28,3 +28,14 @@ if (name == ("israel")):
     print ("Hello " + str(name) + " nice to meet you!")
 else:
     print ("Goodbye I am not permited to talk to you")
+
+cats = 2
+while (cats < 5):
+    print ("Not a lot of Cats then")
+    cats+=1
+print ("okay that is a lot of cats")
+name = ""
+while name != 'your name':
+    print ("Please type your name")
+    name = input()
+print ("thank you!")
